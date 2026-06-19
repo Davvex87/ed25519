@@ -1,0 +1,10 @@
+{
+	"name": "ed25519",
+	"url": "https://github.com/Davvex87/ed25519/",
+	"license": "MIT",
+	"tags": ["cpp", "crypto", "utility"],
+	"description": "Ed25519 implementation for Windows, Mac and Linux (C++ only)",
+	"version": "1.0.0",
+	"releasenote": "Initial release",
+	"contributors": ["Davvex87"]
+}

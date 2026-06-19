@@ -1,0 +1,3 @@
+-cp .
+-D no-compilation
+--cpp bin

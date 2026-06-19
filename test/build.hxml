@@ -1,0 +1,3 @@
+-lib ed25519
+-m Main
+--cpp bin
